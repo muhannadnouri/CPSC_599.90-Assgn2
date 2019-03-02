@@ -10,7 +10,7 @@ CPSC 599.90 - Design of a Mixed Reality App
 ## Make Kyle Move
 - If you shake your phone left and right repeatdly, then Kyle will rotate along the axis.
 - If you get up, close and personal with the proximity sensor on your phone, then Kyle will rotate along a different axis.
-- Please see the attached video a demonstration.
+- [Video Demonstration](https://youtu.be/sPc2DHLe2oQ)
 
 ## Assets
 - Character - [Space Robot Kyle](https://assetstore.unity.com/packages/3d/characters/robots/space-robot-kyle-4696)
