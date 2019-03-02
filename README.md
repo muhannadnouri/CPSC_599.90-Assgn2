@@ -1,18 +1,23 @@
-# Assignment 2
+## Assignment 2
 CPSC 599.90 - Design of a Mixed Reality App
 
-# Requirements
-- [x] Download a **character** from the Asset Store. (Or, if you’re feeling ambitious, try creating your own!)
-- [x] **Recognize elements of the physical environment** in your application (this can be either image targets or the environment itself).
-- [x] Program your character to **move between at least three points** in the scene.
-- [x] **Trigger an exciting event** when the character reaches its final point!
+## Instructions
+- Clone the entire repository
+- Run the application in Unity and build it for Android
+- Open up the [rocks.jpeg]() file
+- Point your camera at the image target
 
-# Assets
+## Make Kyle Move
+- If you shake your phone left and right repeatdly, then Kyle will rotate along the axis.
+- If you get up, close and personal with the proximity sensor on your phone, then Kyle will rotate along a different axis.
+- Please see the attached video a demonstration.
+
+## Assets
 - Character - [Space Robot Kyle](https://assetstore.unity.com/packages/3d/characters/robots/space-robot-kyle-4696)
 - Animation - [Move Motion](https://assetstore.unity.com/packages/3d/animations/move-motion-free-pack-25900)
-- Audio - [Placeholder]()
 
-# Resources
+## Resources
+- [Unity Android Sensors Plugin](https://github.com/kshoji/Unity-Android-Sensor-Plugin)
 - [Unity Tutorials](https://unity3d.com/learn/tutorials)
 - [Unity API](https://docs.unity3d.com/ScriptReference/index.html)
 - [Microsoft APIs](https://docs.microsoft.com/en-us/dotnet/api/)
