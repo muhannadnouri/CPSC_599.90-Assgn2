@@ -2,15 +2,18 @@
 CPSC 599.90 - Design of a Mixed Reality App
 
 ## Instructions
-- Clone the entire repository
-- Run the application in Unity and build it for Android
-- Open up the [rocks.jpeg]() file
-- Point your camera at the image target
+- Clone `git clone https://github.com/muhannadnouri/CPSC_599.90-Assgn2`
+- Run the application in **Unity** and build for an **Android**
+- Point the phone's camera at the [**image target**](https://github.com/muhannadnouri/CPSC_599.90-Assgn2/blob/master/Assets/StreamingAssets/rocks.jpeg)
 
-## Make Kyle Move
-- If you shake your phone left and right repeatdly, then Kyle will rotate along the axis.
+## Proximity Sensor
 - If you get up, close and personal with the proximity sensor on your phone, then Kyle will rotate along a different axis.
-- [Video Demonstration](https://youtu.be/sPc2DHLe2oQ)
+
+## Gyroscope
+- If you shake your phone left and right repeatedly, then Kyle will rotate along the axis.
+
+## Video Demo
+- [https://youtu.be/sPc2DHLe2oQ](https://youtu.be/sPc2DHLe2oQ)
 
 ## Assets
 - Character - [Space Robot Kyle](https://assetstore.unity.com/packages/3d/characters/robots/space-robot-kyle-4696)
